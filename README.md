@@ -1,16 +1,31 @@
-## Hi there 👋
+# Hi, I'm Nisha Imran 👋
 
-<!--
-**Nishaimran/Nishaimran** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Aspiring Data Analyst from Pakistan 🇵🇰**
 
-Here are some ideas to get you started:
+I'm interested in turning raw data into meaningful insights through data analysis and visualization.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Skills
+
+- **SQL:** MySQL, queries, joins, aggregations
+- **Excel:** Data analysis, PivotTables, dashboards
+- **Power BI:** Dashboard development
+- **Python:** Currently learning
+
+## 📊 Projects
+
+### Pizza Sales Analysis
+An Excel dashboard analyzing pizza sales, revenue, customer orders, sales trends, and product performance.
+
+- **Tools:** Microsoft Excel
+- **Note:** Developed as a guided learning project using a YouTube tutorial.
+- [View Project](https://github.com/Nishaimran/pizza-sales-dashboard)
+
+## 🎓 Certifications
+
+- **SQL (Basic)** - HackerRank | [View Certificate](https://www.hackerrank.com/certificates/64fb05fa70e2)
+
+## 🌱 Currently Learning
+
+- Advanced SQL practice
+- Practical data analytics projects
+- Data visualization and storytelling
